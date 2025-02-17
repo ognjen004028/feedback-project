@@ -6,11 +6,12 @@
 <p>Clone the repository:</p>
 <pre><code>git clone https://github.com/ognjen004028/feedback-project.git</code></pre>
 
-<p>Install dependencies</p>
+<p>Set the terminal directory to the project directory and follow the necessary steps:</p>
+<p>1) Install dependencies</p>
 <pre><code>npm install</code></pre>
 
-<p>Start the server by typing the following command in the terminal:</p>
+<p>2) Start the server by typing the following command in the terminal:</p>
 <pre><code>npm run server</code></pre>
 
-<p>In another terminal instance, launch the application:</p>
+<p>3) In another terminal instance, launch the application:</p>
 <pre><code>npm run dev</code></pre>
